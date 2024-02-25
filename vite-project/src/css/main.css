@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Poiret+One&family=Shrikhand&family=Zeyada&display=swap');
+
+.color{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+select:hover{
+    background-color: none;
+}
